@@ -19,7 +19,7 @@ generate:
 	-p packageVersion=${NIFI_VERSION},withGoCodegenComment=true,structPrefix=true \
 	--skip-validate-spec \
 	--git-host github.com \
-	--git-user-id simingweng \
+	--git-user-id faceless7171 \
 	--git-repo-id nifi-go-client \
 	-o /local
 

@@ -1,4 +1,4 @@
-module github.com/simingweng/nifi-go-client
+module github.com/faceless7171/nifi-go-client
 
 go 1.13
 
